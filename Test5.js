@@ -5,8 +5,7 @@ let stepen = (x, n) => {
         console.log(x ** n);
 
     }else{
-        console.log('введите натуральное число');
-    }
+        console.log('введите натуральное число');    }
 
 }
 

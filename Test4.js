@@ -4,7 +4,6 @@ function form(a, b){
 
     let timerId = setInterval(function chis(){
 
-
         if(a < b){
             a++; console.log(a);
         }else{

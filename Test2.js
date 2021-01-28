@@ -6,7 +6,6 @@ function num(chis){
 
         for(i = 2; i < chis; i++){
 
-
             if(chis % i === 0){
 
                 result = "непростое число";
